@@ -16,4 +16,4 @@ This is a private project for COMP551 miniproject2. Please note that we need to 
 4) A model validation. i.e. **K-fold cross validation**  
 
 ## Update
-**January 6, 2019** > Github page created by Pengnan Fan
+<**January 6, 2019**> Github page created by Pengnan Fan
