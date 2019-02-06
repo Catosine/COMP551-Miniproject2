@@ -1,7 +1,8 @@
 # COMP551-Miniproject2
 This is a private project for COMP551 miniproject2.  
-[Check PDF version of assignment here](https://www.cs.mcgill.ca/~wlh/comp551/files/miniproject2_spec.pdf)  
-[Check competition here](https://www.kaggle.com/c/comp-551-imbd-sentiment-classification/data)  
+[Check the PDF version of this project here](https://www.cs.mcgill.ca/~wlh/comp551/files/miniproject2_spec.pdf)  
+[Check the competition here](https://www.kaggle.com/c/comp-551-imbd-sentiment-classification/data)  
+[Check markdown cheatsheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Requirement of Coding
 1) Please update **any change** made in this document.  
@@ -10,8 +11,9 @@ This is a private project for COMP551 miniproject2.
 
 ## Checkboard  
 1) Bernoulli Naive Bayes (w/o any external library).  
-2) **At least 2** out of 3 classifiers from the SciKit.  
+2) **At least 2** out of 3 classifiers from the SciKit. i.e.
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. **K-fold cross validation**  
 
 ## Update
+**January 6, 2019** Github page created by Pengnan Fan
