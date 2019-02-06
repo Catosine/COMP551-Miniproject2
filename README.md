@@ -7,12 +7,12 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 3) The [dataset](https://www.kaggle.com/c/12888/download-all) could be downloaded here.  
 
 ## Requirement of Programming
-1) Please update **any change** made in this document.  
-2) Please write comments for **any parts of codes** that may be confusing.  
-3) Please provide an estimated date of finishing coding.  
-4) Please explain **any tests** you run and its related result. It would be preferred if you could write some **report-level** sentences as explaination which could be used as parts of our writeup.  
+1) **Bernoulli Naive Bayes** (w/o any external library).  
+2) **At least 2** out of 3 classifiers from the SciKit. i.e. suggestions: logistic regression, decision tree, or support vector machines  
+3) **At least 2** different features extraction pipelines for processing the data.  
+4) A model validation. i.e. **K-fold cross validation**  
 
-## Checkpoint  
+## Tasks  
 1) **Bernoulli Naive Bayes** (w/o any external library).  
 2) **At least 2** out of 3 classifiers from the SciKit. i.e.
 3) **At least 2** different features extraction pipelines for processing the data.  
