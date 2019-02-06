@@ -13,7 +13,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 4) Please explain **any tests** you run and its related result. It would be preferred if you could write some **report-level** sentences as explaination which could be used as parts of our writeup.  
 
 ## Checkpoint  
-1) Bernoulli Naive Bayes (w/o any external library).  
+1) **Bernoulli Naive Bayes** (w/o any external library).  
 2) **At least 2** out of 3 classifiers from the SciKit. i.e.
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. **K-fold cross validation**  
