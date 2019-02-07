@@ -8,9 +8,10 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 ## Checklist Before Start
 1) Read [project information](https://www.cs.mcgill.ca/~wlh/comp551/files/miniproject2_spec.pdf).  
 2) Register [the Kaggle competition](https://www.kaggle.com/t/b95c2a432a9445d6a01a7a95d51d1dd5) using **McGill email**.  
-3) The [dataset](https://www.kaggle.com/c/12888/download-all) could be downloaded here.  
+3) Register Group on MyCourse.  
+4) The [dataset](https://www.kaggle.com/c/12888/download-all) could be downloaded here.  
 
-## Requirement of Programming
+## Working Together
 1) Please update **any change** made in this document.  
 2) Please write comments for **any parts of codes** that may be confusing.  
 3) Please provide an estimated date of finishing coding.  
