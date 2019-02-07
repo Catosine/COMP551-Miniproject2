@@ -30,6 +30,13 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > **TF*IDF** - could be bulit on the previous feature  
 > **N-grams** - currently have no idea how to implement it. it won't be hard I think, for we are allowed to use external library (NLTK) for feature processing.  
 
+## Dataset  
+> * **Learning set**  
+>> **Size** - 25,000 of positive and negative comments  
+>> **Validation set** - 5 sets of 5,000 elements by cross validation  
+> * **Test set**
+>> **Size** - 25,000 of comments  
+
 ## Features
 1. **Bernoulli Naive Bayes**  
 > * **Vocabulary w/o stopwords** - numerical: frequency of a given word within the whole set
@@ -47,5 +54,5 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > This function takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
 > * **readTestData(address:String):DataFrame**  
 > This function takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
-> * **Learning set** 25000 in total  
-> * **Test set** 25000 in total  
+> * **Learning set** 25,000 in total  
+> * **Test set** 25,000 in total  
