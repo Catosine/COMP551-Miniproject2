@@ -31,6 +31,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > **N-grams** - currently have no idea how to implement it. it won't be hard I think, for we are allowed to use external library (NLTK) for feature processing.  
 
 ## Features
+1. **Bernoulli Naive Bayes**  
+> * **Vocabulary w/o stopwords** - used for following features
+> * **Present of a Word** - numerical {0 -> No present,1 -> present}  
 
 ## Hypothesis  
 
