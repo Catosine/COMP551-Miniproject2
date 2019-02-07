@@ -2,6 +2,8 @@
 This is a private project for COMP551 miniproject2. It will be public after due date. In this project, we are required to learn and predict the sentiment of IMDB comments using classification.
 
 ## Important Dates
+**Febuary 10, 2019** - First draft codes  
+**Febuary 17, 2019** - Optimization  
 **Febuary 21, 2019** - Due date of this project  
 ...  
 
@@ -26,8 +28,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 4) A model validation. i.e. K-fold cross validation  
 
 ## TODO (Last update: Januare 7, 2019)
-1) Group meeting: assign tasks to each member.  
-2) Feature engineering: discuss what kinds of features are we going to use.  
+1) Finish assigned hypothesis  
 
 ## Dataset  
 > * **Learning set**  
@@ -44,8 +45,10 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > * **Conditional possibilities**  
 
 ## Hypothesis  
-1. **Bernouolli Naive Bayes**  
+1. **Bernouolli Naive Bayes** by Pengnan  
 > This hypothesis uses the conditional possibilities of words in comments to estimate the possibility of one given comment is either positive or negative.  
+2. **Support Vector Machine** by Sherry  
+3. **Logistic Regression** by Kaylee  
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
