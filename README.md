@@ -34,6 +34,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 1. **Bernoulli Naive Bayes**  
 > * **Vocabulary w/o stopwords** - used for following features
 > * **Present of a Word** - numerical {0 -> No present,1 -> present}  
+> * **Conditional possibilities**  
 
 ## Hypothesis  
 
