@@ -18,6 +18,9 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. K-fold cross validation  
 
+## TODO
+1) Feature engineering
+
 ## Updates
 **<Januare 6, 2019>** Pengnan Fan create this notebook and write function readData  
 > **readTrainData(address:String):DataFrame**  
