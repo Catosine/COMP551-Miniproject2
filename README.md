@@ -1,5 +1,5 @@
 # COMP551-Miniproject2
-This is a private project for COMP551 miniproject2. It will be public after due date. In this project, we are required to learn the sentiment of IMDB comments using classification. This README is written by markdown and you may find [an instruction about how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This is a private project for COMP551 miniproject2. It will be public after due date. In this project, we are required to learn and predict the sentiment of IMDB comments using classification. This README is written by markdown and you may find [an instruction about how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Important Dates
 **Febuary 21, 2019** - Due date of this project  
