@@ -13,9 +13,9 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 
 ## Working Together
 1) Please update **any change** made (i.e. implement a new function) in this document.  
-2) Please write comments for **any parts of codes** that may be confusing.  
-3) Please provide an estimated date of finishing coding.  
-4) Please explain **any tests** you run and its related result. It would be preferred if you could write some **report-level** sentences as explaination which could be used as parts of our writeup.  
+2) Please write comments for any parts of codes that may be **confusing**.  
+3) Please provide an estimated date of finishing coding of your part.  
+4) Please explain **any tests** you run and its related results. It would be preferred if you could write some **report-level** sentences as explaination which could be used as parts of our writeup.  
 
 ## Tasks  
 1) **Bernoulli Naive Bayes** (w/o any external library).  
