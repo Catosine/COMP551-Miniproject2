@@ -26,6 +26,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 ## TODO (Last update: Januare 6, 2019)
 1) Group meeting: assign tasks to each member.  
 2) Feature engineering: discuss what kinds of features are we going to use.  
+> **Most frequent words** - could be a good idea to try  
+> **TF*IDF** - could be bulit on the previous feature  
+> **N-grams** - currently have no idea how to implement it. it won't be hard I think, for we are allowed to use external library (NLTK) for feature processing.  
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
