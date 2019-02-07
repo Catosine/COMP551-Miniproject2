@@ -25,7 +25,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 
 ## TODO (Last updateJanuare 6, 2019)
 1) Group meeting: assign tasks to each member.  
-2) Feature engineering: discuss what kind of features are we going to use.  
+2) Feature engineering: discuss what kinds of features are we going to use.  
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
