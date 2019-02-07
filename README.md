@@ -28,7 +28,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 2) Feature engineering: discuss what kind of features are we going to use.  
 
 ## Updates
-**<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements function readTrainData and readTestData. 
+**<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
 > * **readTrainData(address:String):DataFrame**  
 > This function takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
 > * **readTestData(address:String):DataFrame**  
