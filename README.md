@@ -22,7 +22,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > * **Hint1** - Laplace smoothing is helpful.  
 > * **Hint2** - Vocabulary could be chosen by your own. But justification is required as a proof.   
 2) **At least 2** out of 3 classifiers from the SciKit. i.e. suggestions: logistic regression, decision tree, or support vector machines  
-3) **At least 2** different features extraction pipelines for processing the data.  
+3) **At least 2** different features extraction pipelines for processing the data. i.e. using binary occurrences and tf-idf weighting.  
 4) A model validation. i.e. K-fold cross validation  
 
 ## TODO (Last update: Januare 7, 2019)
