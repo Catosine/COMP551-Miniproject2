@@ -22,7 +22,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 1) Feature engineering
 
 ## Updates
-**<Januare 6, 2019>** Pengnan Fan create this notebook and write function readData  
+**<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) create project page and write function readData  
 > **readTrainData(address:String):DataFrame**  
 > This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.
 **readTestData(address:String):DataFrame**  
