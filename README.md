@@ -19,6 +19,8 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 
 ## Tasks  
 1) **Bernoulli Naive Bayes** (w/o any external library).  
+> * **Hint1** - Laplace smoothing is helpful.  
+> * **Hint2** - Vocabulary could be chosen by your own. But justification is required as a proof.   
 2) **At least 2** out of 3 classifiers from the SciKit. i.e. suggestions: logistic regression, decision tree, or support vector machines  
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. K-fold cross validation  
@@ -26,9 +28,6 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 ## TODO (Last update: Januare 7, 2019)
 1) Group meeting: assign tasks to each member.  
 2) Feature engineering: discuss what kinds of features are we going to use.  
-> **Most frequent words** - could be a good idea to try  
-> **TF*IDF** - could be bulit on the previous feature  
-> **N-grams** - currently have no idea how to implement it. it won't be hard I think, for we are allowed to use external library (NLTK) for feature processing.  
 
 ## Dataset  
 > * **Learning set**  
