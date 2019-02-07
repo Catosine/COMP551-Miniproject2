@@ -23,7 +23,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. K-fold cross validation  
 
-## TODO
+## TODO (Last updateJanuare 6, 2019)
 1) Group meeting: assign tasks to each member.  
 2) Feature engineering: discuss what kind of features are we going to use.  
 
