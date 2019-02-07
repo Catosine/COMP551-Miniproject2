@@ -12,7 +12,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 4) The [dataset](https://www.kaggle.com/c/12888/download-all) could be downloaded here.  
 
 ## Working Together
-1) Please update **any change** made in this document.  
+1) Please update **any change** made (i.e. implement a new function) in this document.  
 2) Please write comments for **any parts of codes** that may be confusing.  
 3) Please provide an estimated date of finishing coding.  
 4) Please explain **any tests** you run and its related result. It would be preferred if you could write some **report-level** sentences as explaination which could be used as parts of our writeup.  
@@ -28,10 +28,10 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 2) Feature engineering: discuss what kind of features are we going to use.  
 
 ## Updates
-**<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and writes function readTrainData and readTestData. 
+**<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements function readTrainData and readTestData. 
 > * **readTrainData(address:String):DataFrame**  
-> This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
+> This function takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
 > * **readTestData(address:String):DataFrame**  
-> This method takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
+> This function takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
 > * **Learning set** 25000 in total  
 > * **Test set** 25000 in total  
