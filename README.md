@@ -18,10 +18,11 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. K-fold cross validation  
 
-## Update
-**<January 6, 2019>** Github page created by [Pengnan Fan](https://github.com/Catosine)  
+## Updates
 **<Januare 6, 2019>** Pengnan Fan create this notebook and write function readData  
 > **readTrainData(address:String):DataFrame**  
 > This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.
 **readTestData(address:String):DataFrame**  
-> This method takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**
+> This method takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
+> **Train set** 25000 in total  
+> **Test set** 25000 in total  
