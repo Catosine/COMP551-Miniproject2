@@ -1,5 +1,9 @@
 # COMP551-Miniproject2
-This is a private project for COMP551 miniproject2. This README is written by markdown and you may find [an instruction about how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+This is a private project for COMP551 miniproject2. This README is written by markdown and you may find [an instruction about how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Important Dates
+**Febuary 21, 2019** Due date of this project  
+...  
 
 ## Checklist Before Start
 1) Read [project information](https://www.cs.mcgill.ca/~wlh/comp551/files/miniproject2_spec.pdf).  
@@ -19,7 +23,8 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 4) A model validation. i.e. K-fold cross validation  
 
 ## TODO
-1) Feature engineering
+1) Group meeting: assign tasks to each member.  
+2) Feature engineering: discuss what kind of features are we going to use.  
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and writes function readTrainData and readTestData. 
