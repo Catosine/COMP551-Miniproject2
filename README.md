@@ -32,8 +32,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 
 ## Features
 1. **Bernoulli Naive Bayes**  
-> * **Vocabulary w/o stopwords** - used for following features
-> * **Present of a Word** - numerical {0 -> No present,1 -> present}  
+> * **Vocabulary w/o stopwords** - numerical: frequency of a given word within the whole set
+> * **Present of a Word** - numerical, categorical: {0 -> No present,1 -> present}  
+> * **Vocabulary of 3-gram w/o stopwords** - numerical: frequency of a given phrase within the whole set
 > * **Conditional possibilities**  
 
 ## Hypothesis  
