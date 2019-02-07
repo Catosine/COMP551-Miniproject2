@@ -19,7 +19,7 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 4) A model validation. i.e. K-fold cross validation  
 
 ## Update
-**<January 6, 2019>** Github page created by [Pengnan Fan](https://github.com/Catosine)
+**<January 6, 2019>** Github page created by [Pengnan Fan](https://github.com/Catosine)  
 **<Januare 6, 2019>** Pengnan Fan create this notebook and write function readData  
 > **readTrainData(address:String):DataFrame**  
 > This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.
