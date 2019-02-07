@@ -37,6 +37,8 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > * **Conditional possibilities**  
 
 ## Hypothesis  
+1. **Bernouolli Naive Bayes**  
+> This hypothesis uses the conditional possibilities of words in comments to estimate the possibility of one given comment is either positive or negative.  
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
