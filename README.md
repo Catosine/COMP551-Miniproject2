@@ -23,9 +23,9 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and writes function readTrainData and readTestData. 
-> **readTrainData(address:String):DataFrame**  
-> This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.
-**readTestData(address:String):DataFrame**  
+> * **readTrainData(address:String):DataFrame**  
+> This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
+> * **readTestData(address:String):DataFrame**  
 > This method takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
-> **Learning set** 25000 in total  
-> **Test set** 25000 in total  
+> * **Learning set** 25000 in total  
+> * **Test set** 25000 in total  
