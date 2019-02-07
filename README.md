@@ -2,7 +2,7 @@
 This is a private project for COMP551 miniproject2. This README is written by markdown and you may find [an instruction about how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Important Dates
-**Febuary 21, 2019** Due date of this project  
+**Febuary 21, 2019** - Due date of this project  
 ...  
 
 ## Checklist Before Start
