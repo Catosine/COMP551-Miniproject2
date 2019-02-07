@@ -24,5 +24,5 @@ This is a private project for COMP551 miniproject2. This README is written by ma
 > This method takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.
 **readTestData(address:String):DataFrame**  
 > This method takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
-> **Train set** 25000 in total  
+> **Learning set** 25000 in total  
 > **Test set** 25000 in total  
