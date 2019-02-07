@@ -23,7 +23,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 3) **At least 2** different features extraction pipelines for processing the data.  
 4) A model validation. i.e. K-fold cross validation  
 
-## TODO (Last updateJanuare 6, 2019)
+## TODO (Last update: Januare 6, 2019)
 1) Group meeting: assign tasks to each member.  
 2) Feature engineering: discuss what kinds of features are we going to use.  
 
