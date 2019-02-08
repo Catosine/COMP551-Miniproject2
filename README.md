@@ -38,8 +38,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 >> **Size** - 25,000 of comments  
 
 ## Features
-1. **Bernoulli Naive Bayes**  
-> * **Vocabulary w/o stopwords** - numerical: frequency of a given word within the whole set
+1. **Basic**  
+> * **Word frequency naive** - numerical: frequency of words
+> * **Word frequency w/o stopwords** - numerical: frequency of words without stopwords
 > * **Present of a Word** - numerical, categorical: {0 -> No present,1 -> present}  
 > * **Vocabulary of 3-gram w/o stopwords** - numerical: frequency of a given phrase within the whole set
 > * **Conditional possibilities**  
@@ -58,3 +59,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > This function takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
 > * **Learning set** 25,000 in total  
 > * **Test set** 25,000 in total  
+
+**<January 7, 2019>** [Pengnan Fan](https://github.com/Catosine) implements wordsFrequencyNaive and wordsFrequencyStopword
+> * **wordsFrequencyNaive(dataSet:DataFrame)**  
+> This function takes a DataFrame **dataSet** and calculate the naive word frequency  
+> * **wordsFrequencyStopword(dataSet:DataFrame)**  
+> This function takes a DataFrame **dataSet** and calculate the word frequency without stopwords  
