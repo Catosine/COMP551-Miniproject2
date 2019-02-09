@@ -65,3 +65,10 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > This function takes a DataFrame **dataSet** and calculate the naive word frequency  
 > * **wordsFrequencyStopword(dataSet:DataFrame)**  
 > This function takes a DataFrame **dataSet** and calculate the word frequency without stopwords  
+
+**<January 9, 2019>** [Pengnan Fan](https://github.com/Catosine) adds a new way to load files.  
+> * **sklearn.datasets.load_files(address:str)**  
+> [Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_files.html)  
+> Data structure:  
+>> data -> list of comments in byte type. You may transfer it into normal str by using **.decode("utf-8")**  
+>> target_names -> type  
