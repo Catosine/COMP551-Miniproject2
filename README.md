@@ -71,3 +71,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > Returned data structure:  
 >> data -> list of comments in byte type. You may transfer it into normal str by using **.decode("utf-8")**  
 >> target_names -> type  
+
+**<January 10, 2019>** [Pengnan Fan](https://github.com/Catosine) implements numOfExistanceNaive and numOfExistanceStopword
+> * **numOfExistanceNaive(dataset:Bunch)**  
+> This function takes a Bunch **dataSet** and calculate the naive existance of words  
+> * **numOfExistanceStopword(dataset:Bunch)**  
+> This funciton takes a Bunch **dataSet** and calculate the existance of words without stopwords  
