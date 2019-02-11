@@ -78,8 +78,11 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > * **numOfExistanceStopword(dataset:Bunch)**  
 > This funciton takes a Bunch **dataSet** and calculate the existance of words without stopwords  
 
-**<January 11, 2019>** [Pengnan Fan](https://github.com/Catosine) implements bernoulliNaiveBayes and evaluation
+**<January 11, 2019>** [Pengnan Fan](https://github.com/Catosine) implements bernoulliNaiveBayes and evaluation. Also, the dataset is changed by using loadData  
 > * **bernoulliNaiveBayes(dataSet:Bunch, totalWordFreq:set, negWordFreq:set, posWordFreq:set, numOfExamples:list)**  
 > This function takes a Bunch **dataSet** as learning set and uses three sets of **totalWordFreq**, **negWordFreq**, **posWordFreq** and a list **numOfExamples** to calculates related probabilities. Note: It is not completely corrent. Fix later today.  
 > * **evaluation(dataSet:Bunch, prediction:list)**  
-> This function takes a Bunch **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg  
+> This function takes a Bunch **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg
+> * **loadData(address:str)**  
+> This function takes a string **address** and generate a dict of 3 lists (pos, neg, all) of dict ('comment', 'isPos')  
+
