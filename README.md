@@ -95,3 +95,4 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > * **evaluation(dataSet:list of dict, prediction:list)**  
 > This function takes a list of dict **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg  
 > * **Outcome** TP =  11848, TN =  11482, FP =  1018, FN =  652  
+>> accuracy =  93.32 %
