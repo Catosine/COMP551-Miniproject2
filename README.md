@@ -48,6 +48,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 ## Hypothesis  
 1. **Bernouolli Naive Bayes** by Pengnan  
 > * **Outcome** TP =  11848, TN =  11482, FP =  1018, FN =  652  
+> * **Data Set** - train set  
 2. **Support Vector Machine** by Sherry  
 3. **Logistic Regression** by Kaylee  
 
