@@ -53,10 +53,10 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 
 ## Updates
 **<Januare 6, 2019>** [Pengnan Fan](https://github.com/Catosine) creates this project page and implements functions readTrainData and readTestData. 
-> * **readTrainData(address:String):DataFrame**  
-> This function takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.  
-> * **readTestData(address:String):DataFrame**  
-> This function takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**  
+> * ~~**readTrainData(address:String):DataFrame**~~  
+> ~~This function takes a string **address** which indicates the address of your train data and will load comments and isPositive to a DataFrame.~~  
+> * ~~**readTestData(address:String):DataFrame**~~  
+> ~~This function takes a string **address** which indicates the address of your test data and will load comments and isPositive to a DataFrame. **Note: all isPositive is initialized as 0**~~  
 > * **Learning set** 25,000 in total  
 > * **Test set** 25,000 in total  
 
@@ -75,14 +75,21 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 **<January 10, 2019>** [Pengnan Fan](https://github.com/Catosine) implements numOfExistanceNaive and numOfExistanceStopword
 > * **numOfExistanceNaive(dataset:Bunch)**  
 > This function takes a Bunch **dataSet** and calculate the naive existance of words  
-> * **numOfExistanceStopword(dataset:Bunch)**  
-> This funciton takes a Bunch **dataSet** and calculate the existance of words without stopwords  
+> * ~~**numOfExistanceStopword(dataset:Bunch)**~~  
+> ~~This funciton takes a Bunch **dataSet** and calculate the existance of words without stopwords~~  
 
 **<January 11, 2019>** [Pengnan Fan](https://github.com/Catosine) implements bernoulliNaiveBayes and evaluation. Also, the dataset is changed by using loadData  
-> * **bernoulliNaiveBayes(dataSet:Bunch, totalWordFreq:set, negWordFreq:set, posWordFreq:set, numOfExamples:list)**  
-> This function takes a Bunch **dataSet** as learning set and uses three sets of **totalWordFreq**, **negWordFreq**, **posWordFreq** and a list **numOfExamples** to calculates related probabilities. Note: It is not completely corrent. Fix later today.  
-> * **evaluation(dataSet:Bunch, prediction:list)**  
-> This function takes a Bunch **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg
+> * ~~**bernoulliNaiveBayes(dataSet:Bunch, totalWordFreq:set, negWordFreq:set, posWordFreq:set, numOfExamples:list)**~~  
+> ~~This function takes a Bunch **dataSet** as learning set and uses three sets of **totalWordFreq**, **negWordFreq**, **posWordFreq** and a list **numOfExamples** to calculates related probabilities. Note: It is not completely corrent. Fix later today.~~  
+> * ~~**evaluation(dataSet:Bunch, prediction:list)**~~  
+> ~~This function takes a Bunch **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg~~  
 > * **loadData(address:str)**  
 > This function takes a string **address** and generate a dict of 3 lists (pos, neg, all) of dict ('comment', 'isPos')  
 
+**<January 13, 2019>** [Pengnan Fan](https://github.com/Catosine) fixs numOfExistanceStopword, bernoulliNaiveBayes, and evaluation
+> * **advancedNumOfExistance(dataset:dict of list of dict)**  
+> This funciton takes a dict of list of dict **dataSet** and calculate the existance of words without stopwords, puctuations, and duplicates.  
+> * **bernoulliNaiveBayes(dataSet:list of dict, wordExistance:dict of list, size:dict of list)**  
+> This function takes a list of dict **dataSet** as predicting set and uses a dict of list **wordExistance** and a dict of list **size** to calculates related probabilities.  
+> * **evaluation(dataSet:list of dict, prediction:list)**  
+> This function takes a list of dict **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg  
