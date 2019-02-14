@@ -47,7 +47,7 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 
 ## Hypothesis  
 1. **Bernouolli Naive Bayes** by Pengnan  
-> This hypothesis uses the conditional possibilities of words in comments to estimate the possibility of one given comment is either positive or negative.  
+> * **Outcome** TP =  11848, TN =  11482, FP =  1018, FN =  652  
 2. **Support Vector Machine** by Sherry  
 3. **Logistic Regression** by Kaylee  
 
@@ -93,3 +93,4 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 > This function takes a list of dict **dataSet** as predicting set and uses a dict of list **wordExistance** and a dict of list **size** to calculates related probabilities.  
 > * **evaluation(dataSet:list of dict, prediction:list)**  
 > This function takes a list of dict **dataSet** and a list **prediction** to generate a set containing true pos\true neg\false pos\false neg  
+> * **Outcome** TP =  11848, TN =  11482, FP =  1018, FN =  652  
