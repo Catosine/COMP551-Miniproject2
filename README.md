@@ -47,9 +47,9 @@ This is a private project for COMP551 miniproject2. It will be public after due 
 
 ## Hypothesis  
 1. **Bernouolli Naive Bayes** by Pengnan  
-> * **Outcome** TP =  11848, TN =  11482, FP =  1018, FN =  652  
+> * **Outcome** TP =  11120, TN =  11982, FP =  518, FN =  1380  
 > * **Data Set** - train set  
-> * **accuracy** = (TP+TN)/size of set  = 93.32 %
+> * **accuracy** = (TP+TN)/size of set  = 92.408 %
 2. **Support Vector Machine** by Sherry  
 3. **Logistic Regression** by Kaylee  
 
